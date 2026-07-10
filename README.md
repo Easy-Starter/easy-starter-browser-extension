@@ -1,0 +1,1 @@
+# easy-starter-browser-extension
